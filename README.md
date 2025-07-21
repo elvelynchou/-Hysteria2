@@ -1,6 +1,8 @@
 1. 安装  https://playlab.eu.org/archives/hysteria2
 执行下面的一键安装脚本（官方）安装 Hysteria 2
 
+https://v2.hysteria.network/docs/getting-started/Installation/
+
 bash <(curl -fsSL https://get.hy2.sh/)
 
 2执行下面的命令先将 Hysteria 设置为开机自启
